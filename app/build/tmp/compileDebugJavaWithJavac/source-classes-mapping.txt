@@ -1,0 +1,8 @@
+com/mabel_tech/scanovate_colombia_sdk_demo/BuildConfig.java
+ com.mabel_tech.scanovate_colombia_sdk_demo.BuildConfig
+com/mabel_tech/scanovate_colombia_sdk_demo/MainActivity.java
+ com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity
+ com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity$1
+ com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity$2
+ com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity$3
+ com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity$4

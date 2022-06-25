@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mabel_tech.scanovate_colombia_sdk_demo"
+    android:versionCode="2"
+    android:versionName="2.2.7" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <uses-permission android:name="android.permission.ACCESSx_COARSE_LOCATION" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="adodemo"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <!--
+            <activity
+                  android:name="mabel_tech.com.scanovate_demo_sdk.UI.SplashScreen"
+                  android:configChanges="orientation|keyboardHidden|screenSize">
+                  <intent-filter>
+                      <action android:name="android.intent.action.MAIN" />
+                      <category android:name="android.intent.category.LAUNCHER" />
+                  </intent-filter>
+              </activity>
+        -->
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_sdk.UI.PersonalData.PersonalDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_sdk.UI.GetConfig.GetConfigActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_sdk.UI.Face.FaceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_sdk.UI.Document.DocActivity"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_sdk.UI.Document.ImageConformationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="scanovate.manual.capture.activity.ManualCaptureActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+        <!--
+        <activity
+             android:name=".UI.SplashScreen"
+             android:configChanges="orientation|keyboardHidden|screenSize">
+             <intent-filter>
+                 <action android:name="android.intent.action.MAIN" />
+                 <category android:name="android.intent.category.LAUNCHER" />
+             </intent-filter>
+         </activity>
+        -->
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_components.UI.base.BaseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.scanovate_demo_components.UI.GetConfig.GetConfigActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.FaceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="mabel_tech.com.DocActivity"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="scanovateliveness.control.activities.SNLivenessActivity"
+            android:configChanges="orientation"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+    </application>
+
+</manifest>

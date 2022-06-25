@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\488492805ef15ccc848472095b17f527\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8518358a7060daf915fa017c43e8e4ff\play-services-vision-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b84441d0cdd033f9353b0e62937186ed\play-services-vision-common-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ef65db9bea13c7eeb309356b3a1ce68d\play-services-clearcut-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\7bbdeb788a288ce80559be006a2e9c08\play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\40611bcaf54649cabc5d7252f775bfcb\play-services-phenotype-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9e285b364761d6764449c250d7ac0e93\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9b9b09797bab41050c37f12b5100d68a\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:2:1-63:12
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:2:1-20:12
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:2:1-65:12
+MERGED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9861d925dca44f82959c7f59d776c041\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:5:5-64
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:12:5-65
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:12:5-65
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:11:5-65
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:11:5-65
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:13:5-65
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:7:5-59
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:17:5-60
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:17:5-60
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:18:5-60
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:18:5-60
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:8:5-69
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:21:5-70
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:21:5-70
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:22:5-70
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:8:19-67
+application
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8518358a7060daf915fa017c43e8e4ff\play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8518358a7060daf915fa017c43e8e4ff\play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b84441d0cdd033f9353b0e62937186ed\play-services-vision-common-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b84441d0cdd033f9353b0e62937186ed\play-services-vision-common-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ef65db9bea13c7eeb309356b3a1ce68d\play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ef65db9bea13c7eeb309356b3a1ce68d\play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\40611bcaf54649cabc5d7252f775bfcb\play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\40611bcaf54649cabc5d7252f775bfcb\play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9e285b364761d6764449c250d7ac0e93\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9e285b364761d6764449c250d7ac0e93\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:27:5-61:19
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:27:5-61:19
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:13:5-18:19
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:13:5-18:19
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:28:5-63:19
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:28:5-63:19
+MERGED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:10:5-17:19
+MERGED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:10:5-17:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:14:9-32
+	android:roundIcon
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:15:9-54
+	android:largeHeap
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:30:9-33
+	android:icon
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:12:9-68
+activity#com.mabel_tech.scanovate_colombia_sdk_demo.MainActivity
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\488492805ef15ccc848472095b17f527\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\488492805ef15ccc848472095b17f527\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8518358a7060daf915fa017c43e8e4ff\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8518358a7060daf915fa017c43e8e4ff\play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b84441d0cdd033f9353b0e62937186ed\play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b84441d0cdd033f9353b0e62937186ed\play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ef65db9bea13c7eeb309356b3a1ce68d\play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ef65db9bea13c7eeb309356b3a1ce68d\play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\7bbdeb788a288ce80559be006a2e9c08\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\7bbdeb788a288ce80559be006a2e9c08\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\40611bcaf54649cabc5d7252f775bfcb\play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\40611bcaf54649cabc5d7252f775bfcb\play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9e285b364761d6764449c250d7ac0e93\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9e285b364761d6764449c250d7ac0e93\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9b9b09797bab41050c37f12b5100d68a\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9b9b09797bab41050c37f12b5100d68a\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:7:5-9:41
+MERGED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:7:5-9:41
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:7:5-9:41
+MERGED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:7:5-9:41
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:8:5-10:41
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:8:5-10:41
+MERGED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:6:5-8:41
+MERGED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9861d925dca44f82959c7f59d776c041\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9861d925dca44f82959c7f59d776c041\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\Documents\AdoTechnologies\Repositorios\Evertec\Lanzador_App_Components_Android\Lanzador_App_Components_Android\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c0942b1dc8eab4a5eea79cea7bc6848b\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\ce366687a9ef83e55f7210cd68cd8d43\play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:11:5-79
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:12:5-79
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:13:5-80
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:14:5-80
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:14:5-79
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:15:5-79
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.INTERNET
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:19:5-67
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:20:5-67
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:23:5-66
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:24:5-66
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:23:22-63
+uses-feature#0x00020000
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:25:5-54
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:26:5-54
+MERGED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:26:5-54
+	android:glEsVersion
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:25:19-51
+activity#mabel_tech.com.scanovate_demo_sdk.UI.PersonalData.PersonalDataActivity
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:46:13-98
+activity#mabel_tech.com.scanovate_demo_sdk.UI.GetConfig.GetConfigActivity
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:49:13-92
+activity#mabel_tech.com.scanovate_demo_sdk.UI.Face.FaceActivity
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:52:13-82
+activity#mabel_tech.com.scanovate_demo_sdk.UI.Document.DocActivity
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:57:13-49
+	android:hardwareAccelerated
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:56:13-47
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:55:13-85
+activity#mabel_tech.com.scanovate_demo_sdk.UI.Document.ImageConformationActivity
+ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from [:scanovate_colombia_2_2_11:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\01adf7aa54b3661baea2717eebcb10ff\scanovate_colombia_2_2_11\AndroidManifest.xml:59:13-99
+activity#scanovate.manual.capture.activity.ManualCaptureActivity
+ADDED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:14:9-17:20
+	android:screenOrientation
+		ADDED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:16:13-50
+	android:name
+		ADDED from [:ScanovateManualCapture_1_0_7:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\bf0c45f13292a0240d689a1f99970f21\ScanovateManualCapture_1_0_7\AndroidManifest.xml:15:13-83
+uses-permission#android.permission.ACCESSx_COARSE_LOCATION
+ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:16:5-82
+	android:name
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:16:22-79
+activity#mabel_tech.com.scanovate_demo_components.UI.base.BaseActivity
+ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:47:13-89
+activity#mabel_tech.com.scanovate_demo_components.UI.GetConfig.GetConfigActivity
+ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:50:13-99
+activity#mabel_tech.com.FaceActivity
+ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:53:13-55
+activity#mabel_tech.com.DocActivity
+ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:55:9-58:52
+	android:screenOrientation
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:58:13-49
+	android:hardwareAccelerated
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:56:13-54
+meta-data#preloaded_fonts
+ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:60:9-62:57
+	android:resource
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:62:13-54
+	android:name
+		ADDED from [:hybridComponent_1_0_1:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\2718000ab3e43aae99164c4566dc0cb3\hybridComponent_1_0_1\AndroidManifest.xml:61:13-43
+activity#scanovateliveness.control.activities.SNLivenessActivity
+ADDED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:11:9-16:72
+	android:screenOrientation
+		ADDED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:15:13-49
+	android:launchMode
+		ADDED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:14:13-43
+	android:configChanges
+		ADDED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:13:13-48
+	android:theme
+		ADDED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:16:13-69
+	android:name
+		ADDED from [:libScanovateImagingHybridLiveness_2_2_2:] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c3c239c70d67b62d1eff55580d812938\libScanovateImagingHybridLiveness_2_2_2\AndroidManifest.xml:12:13-83

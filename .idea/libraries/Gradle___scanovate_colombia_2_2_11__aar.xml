@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :scanovate_colombia_2_2_11:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01adf7aa54b3661baea2717eebcb10ff/scanovate_colombia_2_2_11/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01adf7aa54b3661baea2717eebcb10ff/scanovate_colombia_2_2_11/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01adf7aa54b3661baea2717eebcb10ff/scanovate_colombia_2_2_11/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

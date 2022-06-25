@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :libScanovateImagingHybridLiveness_2_2_2:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3c239c70d67b62d1eff55580d812938/libScanovateImagingHybridLiveness_2_2_2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3c239c70d67b62d1eff55580d812938/libScanovateImagingHybridLiveness_2_2_2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3c239c70d67b62d1eff55580d812938/libScanovateImagingHybridLiveness_2_2_2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

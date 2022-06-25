@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.coralogix.sdk:coralogix-sdk:2.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coralogix.sdk/coralogix-sdk/2.0.6/224c38a8f7a534af307c515a16f55f44f97a01bc/coralogix-sdk-2.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coralogix.sdk/coralogix-sdk/2.0.6/7e00d3ca924f6b42d7400c0f0da578d42e3fdcb0/coralogix-sdk-2.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coralogix.sdk/coralogix-sdk/2.0.6/fac116af53d76f73ea7beaae0ef91c522db5bba4/coralogix-sdk-2.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/.gradle/caches/transforms-2/files-2.1/2718000ab3e43aae99164c4566dc0cb3/hybridComponent_1_0_1/res/drawable/sn_black_rect.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/Documents/AdoTechnologies/Repositorios/Evertec/Lanzador_App_Components_Android/Lanzador_App_Components_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12" />
+        <entry key="..\:/Users/Usuario/Documents/AdoTechnologies/Repositorios/Evertec/Lanzador_App_Components_Android/Lanzador_App_Components_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12" />
+        <entry key="..\:/Users/Usuario/Documents/AdoTechnologies/Repositorios/Evertec/Lanzador_Comfandi_Android-master/Lanzador_Comfandi_Android-master/app/src/main/res/drawable/radius.xml" value="0.125" />
+        <entry key="..\:/Users/Usuario/Documents/AdoTechnologies/Repositorios/Evertec/Lanzador_Comfandi_Android-master/Lanzador_Comfandi_Android-master/app/src/main/res/layout/activity_main.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
