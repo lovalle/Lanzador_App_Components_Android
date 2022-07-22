@@ -2,33 +2,27 @@
 
 El lanzador es un ejemplo de implementación de las librerias necesarias para iniciar el proceso de validación.
 
-## Importación
-El sdk requere las siguientes librerias necesarias para realizar el correcto proceso de validación de identidad
- 
-    //LibreriasNativas 
-    implementation(name: 'hybridComponent_1_0_1', ext: 'aar')
-    implementation(name: 'libScanovateImagingHybridLiveness_2_2_2', ext: 'aar')
-    implementation(name: 'scanovate_colombia_2_2_11', ext: 'aar')
+## Instalación
+
+Primero, añadir las librerías "scanovate_colombia_2_2_8", "ScanovateManualCapture_1_0_7"
+en las dependencias del proyecto. 
+
+    `dependencies{
+
+    implementation'com.coralogix.sdk:coralogix-sdk:2.0.6'
+    implementation(name: 'scanovate_colombia_2_2_8', ext: 'aar')
     implementation(name: 'ScanovateManualCapture_1_0_7', ext: 'aar')
-	
-	
-	//LibreriasComplementarias
-    implementation 'com.android.support:multidex:1.0.3'
-    implementation 'com.android.support:appcompat-v7:28.0.0'
-    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
-    implementation 'com.android.support:support-v4:28.0.0'
-    implementation 'org.jetbrains:annotations:15.0'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'com.android.support.test:runner:1.0.2'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation 'com.coralogix.sdk:coralogix-sdk:2.0.6'
-    implementation 'org.greenrobot:eventbus:3.2.0'
-    implementation 'com.squareup.okhttp3:logging-interceptor:3.14.0'
-    implementation 'com.squareup.retrofit2:converter-scalars:2.3.0'
-    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
-    implementation 'com.google.android.gms:play-services-vision:17.0.2'
-	
+    }`
+  
+Asi mismo se podrán importar las siguientes librerías.
+
+`import mabel_tech.com.scanovate_demo.ScanovateHandler;
+ import mabel_tech.com.scanovate_demo.ScanovateSdk;
+ import mabel_tech.com.scanovate_demo.model.CloseResponse;
+ import mabel_tech.com.scanovate_demo.network.ApiHelper;
+ import mabel_tech.com.scanovate_demo.network.RetrofitClient;`
+
+La librería responde el resultado de la transacción en un objeto llamado CloseResponse  
 
 ### Version minima del SDK Android
 
@@ -39,30 +33,98 @@ Cambiar la versión minima del SDK Android a 21 (o mas alta) en el archivo `andr
 Este es un pequeño ejemplo de como invocar el metodo que lanzara la librería. 
 
     
-    ScanovateSdk.start(this,
+    private ProgressDialog progress;
+
+    Button btn_enrolar;
+    Button btn_verificar;
+    TextView tv;
+    Context contect;
+    EditText numberId;
+    String numberIdentification;
+    Boolean verification;
+
+
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        tv = findViewById(R.id.textView);
+        progress = new ProgressDialog(this);
+        progress.setTitle("Procesando estado");
+        progress.setMessage("Por favor espere un momento...");
+        progress.setIndeterminate(true);
+        progress.setCanceledOnTouchOutside(false);
+        contect = this;
+        btn_enrolar = findViewById(R.id.btn_enroll);
+        btn_verificar = findViewById(R.id.btn_verification);
+        numberId = findViewById(R.id.numberId);
+        verification = false;
+        initView();
+    }
+
+    public void initView() {
+
+        btn_enrolar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                capture();
+            }
+        });
+
+        btn_verificar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (!btn_verificar.getText().equals("Enviar")) {
+                    numberId.setVisibility(View.VISIBLE);
+                    btn_enrolar.setVisibility(View.INVISIBLE);
+                    btn_verificar.setText("Enviar");
+                } else {
+                    if (numberId.getText().length() != 0) {
+                        numberIdentification = numberId.getText().toString();
+                        verification = true;
+                        numberId.setVisibility(View.INVISIBLE);
+                        btn_verificar.setVisibility(View.INVISIBLE);
+                        capture();
+
+                    }
+
+                }
+            }
+        });
+    }
+
+    public void capture() {
+        ScanovateSdk.start(this,
                 "1",
                 1,
-                "adodemo",
+                "Comfandiqa",
                 "db92efc69991",
-                "https://adocolombia-qa.ado-tech.com/adodemo/api/",
+                "https://adocolombia-qa.ado-tech.com/ComfandiQA/api/",
+                numberIdentification,
+                verification,
                 "",
-                false,
                 "",
-                "",
-                new ScanovateHandlerSDK() {
+                new ScanovateHandler() {
                     @Override
                     public void onSuccess(CloseResponse response, int code, String uuidDevice) {
-                        //EjecuciónSatisfactoria
-
+                        progress.show();
+                        String calificacion = response.getExtras().getStateName();
+                        btn_verificar.setVisibility(View.INVISIBLE);
+                        btn_enrolar.setVisibility(View.INVISIBLE);
+                        tv.setText("Resultado de la transacción: " + calificacion);
 
                     }
 
                     @Override
                     public void onFailure(CloseResponse closeResponse) {
-                        //EjecuciónErronea
-
+                        String calificacion = closeResponse.getExtras().getStateName() + " " + closeResponse.getExtras().getAdditionalProp1();
+                        btn_verificar.setVisibility(View.INVISIBLE);
+                        btn_enrolar.setVisibility(View.INVISIBLE);
+                        tv.setText("Resultado de la transacción: " + calificacion);
                     }
                 });
+    }
     
 
 ## Documentacion
